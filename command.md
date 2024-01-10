@@ -17,3 +17,9 @@ git add(name file)
 git commit -m (comment)
 ```
 добавить коментарий к сохранению
+
+``` sh
+git log
+```
+проверить свойства изменений
+
