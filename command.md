@@ -12,3 +12,8 @@ git status
 git add(name file)
 ``` 
 добвавление изменений в файл
+
+``` sh
+git commit -m (comment)
+```
+добавить коментарий к сохранению
