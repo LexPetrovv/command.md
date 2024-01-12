@@ -24,7 +24,7 @@ git log
 проверить свойства изменений
 
 ``` sh
-git checkout (название ветки)
+git checkout <branch name>
 ```
 преключиться на другую ветку
 
