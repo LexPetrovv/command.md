@@ -14,7 +14,7 @@ git add(name file)
 добвавление изменений в файл
 
 ``` sh
-git commit -m (comment)
+git commit -m (text)
 ```
 добавить коментарий к сохранению
 
