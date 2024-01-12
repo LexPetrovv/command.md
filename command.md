@@ -47,3 +47,8 @@ git checkout master
 git branch
 ```
 Отображение всех веток
+
+``` sh
+git branch<имя новой ветки>
+```
+создание новой ветки
